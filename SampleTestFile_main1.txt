@@ -1,1 +1,2 @@
 A sentence
+This is a comparison lecture
